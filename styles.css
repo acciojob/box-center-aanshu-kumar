@@ -4,6 +4,7 @@
 	width:200px;
 	background-color:lightblue;
 	margin:auto;
+	border: 1px solid black;
 }
 h1{
 	color:purple;
