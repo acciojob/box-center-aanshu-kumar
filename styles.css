@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.box{
+	height:200px;
+	width:200px;
+	background-color:lightblue;
+	margin:auto;
+}
+h1{
+	color:purple;
+	padding-top:40%;
+	
+}
